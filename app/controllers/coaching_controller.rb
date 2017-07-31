@@ -18,4 +18,7 @@ class CoachingController < ApplicationController
 
   def ask
   end
+
+  def home
+  end
 end
